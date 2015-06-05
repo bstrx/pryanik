@@ -1,6 +1,6 @@
 <?php
 
-namespace Bstrx\PryanikBundle\Entity;
+namespace Bstrx\PryanikBundle\Entity\Repository;
 
 use Doctrine\ORM\EntityRepository;
 
